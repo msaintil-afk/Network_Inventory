@@ -18,6 +18,8 @@ The Network Inventory Project is a Dockerized Django-based web application that 
 - gunicorn 20.1.0
 - Docker
 - DjangoRestFramework 3.14.0
+- pytest-django
+- 
 
 
 ## ERD Diagram
